@@ -5,6 +5,7 @@
 #include <string>
 #include <sstream>
 #include <bits/stdc++.h>
+#include <vector>
 
 using namespace std;
 
